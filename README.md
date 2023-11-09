@@ -1,1 +1,1 @@
-* Graph-based Mooc Recommendation
+* Graph-based Mooc Recommendation 
